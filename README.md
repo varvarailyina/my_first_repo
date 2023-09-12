@@ -1,2 +1,4 @@
 # my_first_repo
-Hello World!
+
+This project does something with gapminder data.
+
